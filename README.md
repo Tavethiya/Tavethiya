@@ -16,10 +16,17 @@ Full-stack engineer. I build SaaS products and MVPs with Next.js, React, Angular
 - SEO-friendly, server-rendered web apps
 - Integrating AI features into real products
 
-## 📊 Stats
+## 🧰 Tools I use daily
 
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tavethiya&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tavethiya&layout=compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,nodejs,express,dotnet,cs,graphql,postgres,mongodb,mysql,aws,azure,docker,vercel,git,figma&perline=10" alt="Tech icons" />
+</p>
+
+## 💬 Open to
+
+- Freelance and contract work on web products
+- Collaborating on open-source Next.js / .NET projects
+- Talking about performance, SEO and AI integrations
 
 ## 📫 Connect
 
