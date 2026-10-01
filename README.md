@@ -23,4 +23,5 @@ Full-stack engineer. I build SaaS products and MVPs with Next.js, React, Angular
 
 ## 📫 Connect
 
+- LinkedIn: https://linkedin.com/in/mahesh-tavethiya
 - Email: mtavethiya12@gmail.com
